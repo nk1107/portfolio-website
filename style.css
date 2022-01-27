@@ -1,0 +1,230 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Raleway', sans-serif;
+    background-color: #269ca5;
+}
+.sidebar{
+    background-color: #1f4862;
+    width: 230px;
+    padding-top: 40px;
+    padding: 25px;
+    height: 606px;
+}
+.sidebarnav{
+    background-color: #1f4862;
+    font-size: 50px;
+    padding-top: 30px;
+    text-align: justify;
+}
+.sidebarnav li{
+    list-style: none;
+    padding-top: 30px;
+    font-size: 30px;
+}
+.sidebarnav li a{
+    text-decoration: none;
+    color: black;
+    background-color: #1f4862;
+}
+.home{
+    background-color: black;
+}
+.heading{
+    
+    margin-right: 10%;
+    padding-left: 20px;
+}
+.container{
+    display: flex;
+}
+.heading h1{
+    font-size: 70px;
+    padding-top: 60px;
+}
+.pf{
+    width: 350px;
+    height: 390px;
+    margin-right: 56px;
+    clip-path: circle(40.5% at 50% 50%);
+}
+.heading p{
+    padding-top: 25px;
+    font-size:20px ;
+}
+.button{
+    flex-direction: column;
+    padding-top: 100px;
+}
+.button button{
+    padding: 15px;
+    border: #1f4862;
+    background-color: #1f4862;
+    width:200px ;
+    border-radius: 15px;
+    font-size: 25px;
+    text-align: center;
+    cursor: pointer;
+}
+.button button:hover{
+    background-color: #74c2b1;
+
+}
+.button span{
+    padding-inline-end: 70px;
+}
+.contain{
+    padding-top: 50px;
+}
+.skill{
+    display: flex;
+    flex-direction: row;
+    padding-left: 50px;
+}
+.skill img{
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+}
+.html h1{
+    padding-top: 20px;
+    font-size: 35px;
+}
+.html p{
+    font-size:25px ;
+}
+.css{
+    padding-left: 50px;
+}
+.css img{
+    padding-left: 10px;
+}
+.css h1{
+    padding-top: 20px;
+    font-size: 35px;
+    padding-left: 40px;
+}
+.css p{
+    font-size:25px ;
+    padding-left: 40px;
+}
+.skill2{
+    display: flex;
+    flex-direction: row;
+    padding-left: 50px;
+    padding-top: 52px;
+}
+.js img{
+    width: 100px;
+    height: 100px;
+    padding-left: 20px;
+}
+.py img{
+    width: 100px;
+    height: 100px;
+}
+.js h1{
+    padding-top: 20px;
+    font-size: 35px;
+    padding-left: 20px;
+}
+.js p{
+    font-size:25px ;
+    padding-left: 20px;
+
+}
+.py{
+    padding-left: 50px;
+}
+.py h1{
+    padding-top: 20px;
+    font-size: 35px;
+    padding-left: 30px;
+}
+.py p{
+    font-size:25px ;
+    padding-left: 30px;
+}
+.skill3{
+    display: flex;
+    flex-direction: row;
+    padding-left: 112px;
+    margin-left: 85px;
+    padding-top: 65px;
+}
+.c img{
+    width: 100px;
+    height: 100px;
+    padding-left: 20px;
+}
+.skill3 span{
+    padding-left: 40px;
+}
+.c h1{
+    padding-top: 20px;
+    font-size: 35px;
+    padding-left: 20px;
+}
+.c p{
+    font-size:25px ;
+    padding-left: 20px;
+}
+.skill{
+    display: flex;
+    flex-direction: row;
+    padding-left: 50px;
+}
+.hobbies{
+    display: flex;
+    flex-direction: row;
+    margin-left: 80px;
+    margin-top: 20px;
+    padding-top: 10px;
+}
+.cricket{
+    margin-left: 100px;
+    margin-top: 70px;
+}
+.cricket img{
+    width: 75px;
+    height: 75px;
+    padding-top: 138px;
+}
+.badminton{
+    margin-top: 60px;
+    margin-left: 57px;
+}
+.badminton img{
+    width: 75px;
+    height: 75px;
+    padding-top: 148px;
+    padding-left: 50px;
+}
+.badminton h2{
+    padding-left: 25px;
+}
+.anime{
+    margin-top: 60px;
+    padding-left: 82px;
+}
+.anime img{
+    width: 80px;
+    height: 80px;
+    padding-top: 144px;
+}
+.anime h2{
+    padding-left: 7px;
+}
+.code{
+    margin-top: 60px;
+    padding-left: 82px;
+}
+.code img{
+    width: 80px;
+    height: 80px;
+    padding-top: 144px;
+}
+
+
